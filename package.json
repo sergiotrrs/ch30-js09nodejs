@@ -1,0 +1,27 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "Uso de node y Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Holi crayoli\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiotrrs/ch30-js09nodejs.git"
+  },
+  "keywords": [
+    "axios",
+    "bootstrap",
+    "generation"
+  ],
+  "author": "Sergio T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiotrrs/ch30-js09nodejs/issues"
+  },
+  "homepage": "https://github.com/sergiotrrs/ch30-js09nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
